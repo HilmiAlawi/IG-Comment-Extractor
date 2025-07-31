@@ -65,7 +65,7 @@ mid = "YOUR_MID"
 python 2file.py
 ```
 
-- Paste one or more Instagram post URLs (feed/reel/tv)
+- Paste one or more Instagram post URLs (feed/reel)
 - Press `Enter` after each URL
 - Type `done` when finished
 
