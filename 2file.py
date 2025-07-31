@@ -96,7 +96,7 @@ def fetch_parent_comments(shortcode, headers):
 
 def main():
     print_mipostify_ascii()
-    print("Masukkan beberapa URL Feed/Reel/TV (pisahkan dengan Enter, ketik 'done' untuk selesai):")
+    print("Masukkan beberapa URL Feed/Reel (pisahkan dengan Enter, ketik 'done' untuk selesai):")
     urls = []
     while True:
         u = input("> ").strip()
