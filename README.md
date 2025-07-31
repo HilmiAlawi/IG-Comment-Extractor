@@ -1,6 +1,6 @@
 # 📥 IG Comment Extractor & Merger
 
-IG Comment Extractor adalah tool sederhana berbasis Python untuk **mengambil komentar dari postingan Instagram (Reel, Feed, atau TV)** dan **menggabungkannya ke dalam satu file**. Cocok untuk riset media sosial, analisis sentimen, dan keperluan data lainnya.
+IG Comment Extractor adalah tool sederhana berbasis Python untuk **mengambil komentar dari postingan Instagram (Reel, Feed)** dan **menggabungkannya ke dalam satu file**. Cocok untuk riset media sosial, analisis sentimen, dan keperluan data lainnya.
 
 ---
 
@@ -34,8 +34,8 @@ IG Comment Extractor adalah tool sederhana berbasis Python untuk **mengambil kom
 1. **Clone repositori**
 
 ```bash
-git clone https://github.com/username/ig-comment-extractor.git
-cd ig-comment-extractor
+git clone https://github.com/HilmiAlawi/IG-Comment-Extractor.git
+cd IG-Comment-Extractor
 ```
 
 2. **Install dependencies**
