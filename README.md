@@ -1,18 +1,16 @@
-## 💀 Support The Mission
+## 💚 Support My Work
 
-> ```bash
-> Initiating system...
-> Project: IG Comment Extractor
-> Status: ACTIVE
-> Need more power to continue 💾
-> ```
+<p align="center">
+  <!-- Animasi teks seperti terminal hidup -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00FF88&center=true&vCenter=true&width=500&lines=Initiating+Support+Sequence...;Connecting+to+Saweria...;Fueling+the+Project+🚀" alt="Typing Animation">
 
-[![Fuel the Code](https://img.shields.io/badge/⚡%20FUEL%20THE%20CODE%20→-00FF88?style=for-the-badge&labelColor=000000&color=00FF88)](https://saweria.co/mipostify)
+  <br><br>
 
-`> Access link:` [saweria.co/mipostify](https://saweria.co/mipostify)
-
-🧠 _Support keeps the terminal running._  
-Built with ❤️ by [Hilmi Alawi](https://github.com/HilmiAlawi)
+  <!-- Tombol utama -->
+  <a href="https://saweria.co/mipostify" target="_blank">
+    <img src="https://img.shields.io/badge/⚡%20DONATE%20NOW-00FF88?style=for-the-badge&labelColor=000000&color=00FF88" alt="Donate Button">
+  </a>
+</p>
 
 
 
