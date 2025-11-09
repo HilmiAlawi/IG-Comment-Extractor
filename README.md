@@ -1,16 +1,19 @@
 ## 💖 Support & Donation
 
-If this project helps you, consider supporting the developer 🙏  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F8D800&center=true&vCenter=true&width=420&lines=☕+Support+My+Work+on+Saweria!;💛+Keep+This+Tool+Alive!" alt="Typing SVG">
+</p>
 
 <p align="center">
-  <a href="https://saweria.co/HilmiAlawi" target="_blank">
-    <img src="https://img.shields.io/badge/Donate%20via-Saweria-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate via Saweria">
+  <a href="https://saweria.co/mipostify" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20Now%20❤️-Saweria-FEAE00?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate via Saweria">
   </a>
 </p>
 
 <p align="center">
-  <b>☕ Every donation keeps this project alive and improving!</b>
+  <i>Your support helps me continue building free open-source tools 🚀</i>
 </p>
+
 
 # 📥 IG Comment Extractor & Merger
 
