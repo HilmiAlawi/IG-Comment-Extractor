@@ -1,17 +1,21 @@
-## 💖 Support & Donation
+## 💖 Support This Project
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=F8D800&center=true&vCenter=true&width=420&lines=☕+Support+My+Work+on+Saweria!;💛+Keep+This+Tool+Alive!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=F9A826&center=true&vCenter=true&width=500&lines=☕+Support+My+Work+on+Saweria!;💛+Your+Donation+Keeps+This+Project+Alive;🚀+Let's+Grow+Open+Source+Together!" alt="Support Animation">
 </p>
 
 <p align="center">
   <a href="https://saweria.co/mipostify" target="_blank">
-    <img src="https://img.shields.io/badge/Donate%20Now%20❤️-Saweria-FEAE00?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate via Saweria">
+    <img src="https://img.shields.io/badge/💰%20DONATE%20NOW%20-FFB300?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate via Saweria">
   </a>
 </p>
 
 <p align="center">
-  <i>Your support helps me continue building free open-source tools 🚀</i>
+  <b>Every coffee you donate fuels more tools, more ideas, and more impact ☕✨</b>
+</p>
+
+<p align="center">
+  <sub>🔗 <a href="https://saweria.co/mipostify">https://saweria.co/mipostify</a></sub>
 </p>
 
 
