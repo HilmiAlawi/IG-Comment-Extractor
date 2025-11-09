@@ -1,22 +1,33 @@
-## 💖 Support This Project
+## 💛 Support My Work
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=F9A826&center=true&vCenter=true&width=500&lines=☕+Support+My+Work+on+Saweria!;💛+Your+Donation+Keeps+This+Project+Alive;🚀+Let's+Grow+Open+Source+Together!" alt="Support Animation">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://saweria.co/mipostify" target="_blank">
-    <img src="https://img.shields.io/badge/💰%20DONATE%20NOW%20-FFB300?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate via Saweria">
-  </a>
-</p>
+### Keep the Creativity Flowing 🚀  
+Your support helps me build more tools, create more designs, and share more ideas for everyone 🌍  
 
-<p align="center">
-  <b>Every coffee you donate fuels more tools, more ideas, and more impact ☕✨</b>
-</p>
+---
 
-<p align="center">
-  <sub>🔗 <a href="https://saweria.co/mipostify">https://saweria.co/mipostify</a></sub>
-</p>
+<a href="https://saweria.co/mipostify" target="_blank">
+  <img src="https://img.shields.io/badge/Support%20on%20Saweria-FFD60A?style=for-the-badge&logo=ko-fi&logoColor=black" alt="Saweria Badge">
+</a>
+
+---
+
+🧡 Every donation — no matter how small — makes a huge impact.  
+Let’s grow together, one project at a time ✨  
+
+<br>
+
+<a href="https://saweria.co/mipostify" target="_blank">
+  <img src="https://img.shields.io/badge/💰%20Donate%20Now%20→-000000?style=for-the-badge&colorA=000000&colorB=FFD60A&labelColor=000000" alt="Donate Button">
+</a>
+
+<br><br>
+
+💬 Visit: [saweria.co/mipostify](https://saweria.co/mipostify)
+
+</div>
+
 
 
 # 📥 IG Comment Extractor & Merger
