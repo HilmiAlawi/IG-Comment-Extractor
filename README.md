@@ -1,32 +1,31 @@
-## 💛 Support My Work
+## ☕️ Support This Project
 
 <div align="center">
 
-### Keep the Creativity Flowing 🚀  
-Your support helps me build more tools, create more designs, and share more ideas for everyone 🌍  
+<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/heart.svg" width="80" alt="Heart Icon"><br>
 
----
-
-<a href="https://saweria.co/mipostify" target="_blank">
-  <img src="https://img.shields.io/badge/Support%20on%20Saweria-FFD60A?style=for-the-badge&logo=ko-fi&logoColor=black" alt="Saweria Badge">
-</a>
-
----
-
-🧡 Every donation — no matter how small — makes a huge impact.  
-Let’s grow together, one project at a time ✨  
+### 💛 Keep The Ideas Flowing  
+I build open tools, creative projects, and share insights for everyone.  
+If this project helped you or inspired you — consider supporting me on **Saweria** 💫  
 
 <br>
 
 <a href="https://saweria.co/mipostify" target="_blank">
-  <img src="https://img.shields.io/badge/💰%20Donate%20Now%20→-000000?style=for-the-badge&colorA=000000&colorB=FFD60A&labelColor=000000" alt="Donate Button">
+  <img src="https://img.shields.io/badge/💰%20DONATE%20NOW%20→-FFD60A?style=for-the-badge&logo=saweria&logoColor=black&labelColor=000000&color=FFD60A" alt="Donate Button">
 </a>
 
 <br><br>
 
-💬 Visit: [saweria.co/mipostify](https://saweria.co/mipostify)
+🪴 [**Click here to support via Saweria**](https://saweria.co/mipostify)  
+Your support means a lot — it keeps this project alive and evolving 🌱  
+
+---
+
+💬 *“Small gestures build great things.”*  
+Made with ❤️ by [Hilmi Alawi](https://github.com/HilmiAlawi)
 
 </div>
+
 
 
 
