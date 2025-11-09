@@ -1,3 +1,17 @@
+## 💖 Support & Donation
+
+If this project helps you, consider supporting the developer 🙏  
+
+<p align="center">
+  <a href="https://saweria.co/HilmiAlawi" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20via-Saweria-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate via Saweria">
+  </a>
+</p>
+
+<p align="center">
+  <b>☕ Every donation keeps this project alive and improving!</b>
+</p>
+
 # 📥 IG Comment Extractor & Merger
 
 IG Comment Extractor is a simple Python-based tool to **extract comments from Instagram posts (Reels, Feed)** and **merge them into a single file**. Perfect for social media research, sentiment analysis, and other data needs.
