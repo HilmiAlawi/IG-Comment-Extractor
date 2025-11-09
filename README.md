@@ -1,22 +1,18 @@
-## 💛 Support My Work
+## 💀 Support The Mission
 
-<div align="center">
+> ```bash
+> Initiating system...
+> Project: IG Comment Extractor
+> Status: ACTIVE
+> Need more power to continue 💾
+> ```
 
-✨ If you love what I’m building, you can support my journey on **Saweria** ✨  
-Every little support keeps this project alive and inspiring 🌿  
+[![Fuel the Code](https://img.shields.io/badge/⚡%20FUEL%20THE%20CODE%20→-00FF88?style=for-the-badge&labelColor=000000&color=00FF88)](https://saweria.co/mipostify)
 
-<br>
+`> Access link:` [saweria.co/mipostify](https://saweria.co/mipostify)
 
-<a href="https://saweria.co/mipostify" target="_blank">
-  <img src="https://img.shields.io/badge/☕️%20Support%20via%20Saweria-FFD60A?style=for-the-badge&labelColor=000000&color=FFD60A" alt="Donate on Saweria">
-</a>
-
-<br><br>
-
-[🌻 saweria.co/mipostify](https://saweria.co/mipostify)
-
-</div>
-
+🧠 _Support keeps the terminal running._  
+Built with ❤️ by [Hilmi Alawi](https://github.com/HilmiAlawi)
 
 
 
