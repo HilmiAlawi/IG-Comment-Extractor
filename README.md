@@ -1,17 +1,24 @@
-## 💚 Support My Work
+## ⚡ Support the Code
 
 <p align="center">
-  <!-- Animasi teks seperti terminal hidup -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00FF88&center=true&vCenter=true&width=500&lines=Initiating+Support+Sequence...;Connecting+to+Saweria...;Fueling+the+Project+🚀" alt="Typing Animation">
+
+  <!-- 🧠 Short hacker tagline -->
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9D?style=flat-square&labelColor=000000&color=00FF9D" alt="Status Badge">
+
+  <br><br>
+  <b><i>Powering open-source intelligence... Need more energy to sustain the mission.</i></b>
 
   <br><br>
 
-  <!-- Tombol utama -->
+  <!-- 💰 Neon main button -->
   <a href="https://saweria.co/mipostify" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20DONATE%20NOW-00FF88?style=for-the-badge&labelColor=000000&color=00FF88" alt="Donate Button">
+    <img src="https://img.shields.io/badge/⚡%20FUEL%20THE%20MISSION%20→-000000?style=for-the-badge&logo=github&logoColor=00FF9D&labelColor=000000&color=00FF9D" alt="Saweria Donate Button">
   </a>
-</p>
 
+  <br><br>
+  <code>Access link → saweria.co/mipostify</code>
+
+</p>
 
 
 # 📥 IG Comment Extractor & Merger
