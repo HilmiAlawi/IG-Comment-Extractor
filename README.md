@@ -1,28 +1,19 @@
-## ☕️ Support This Project
+## 💛 Support My Work
 
 <div align="center">
 
-<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/heart.svg" width="80" alt="Heart Icon"><br>
-
-### 💛 Keep The Ideas Flowing  
-I build open tools, creative projects, and share insights for everyone.  
-If this project helped you or inspired you — consider supporting me on **Saweria** 💫  
+✨ If you love what I’m building, you can support my journey on **Saweria** ✨  
+Every little support keeps this project alive and inspiring 🌿  
 
 <br>
 
 <a href="https://saweria.co/mipostify" target="_blank">
-  <img src="https://img.shields.io/badge/💰%20DONATE%20NOW%20→-FFD60A?style=for-the-badge&logo=saweria&logoColor=black&labelColor=000000&color=FFD60A" alt="Donate Button">
+  <img src="https://img.shields.io/badge/☕️%20Support%20via%20Saweria-FFD60A?style=for-the-badge&labelColor=000000&color=FFD60A" alt="Donate on Saweria">
 </a>
 
 <br><br>
 
-🪴 [**Click here to support via Saweria**](https://saweria.co/mipostify)  
-Your support means a lot — it keeps this project alive and evolving 🌱  
-
----
-
-💬 *“Small gestures build great things.”*  
-Made with ❤️ by [Hilmi Alawi](https://github.com/HilmiAlawi)
+[🌻 saweria.co/mipostify](https://saweria.co/mipostify)
 
 </div>
 
